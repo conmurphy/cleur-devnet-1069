@@ -1,47 +1,33 @@
-# My New Project
+# Cisco Live Barcelona 2020 - DEVNET-1069 
 
-This is a description of the new project I've started 
+This is an example readme template used in the DEVNET-1069 session at Cisco Live Barcelona 2020. 
 
 Table of Contents
 =================
 
 * [My New Project](#my-new-project)
    * [Table of Contents](#table-of-contents)
-      * [Features](#features)
       * [Quick Start](#quick-start)
+        * [Prerequisites](#prerequisites)
+        * [Installation](#usage)
+        * [Usage](#installation)
       * [Guidelines and Limitations](#guidelines-and-limitations)
-      * [Prerequisites](#prerequisites)
-      * [Installation](#installation)
       * [Configuration](#configuration)
       * [Contributing](#contributing)
       * [License](#license)
-   
-
-## Features
-
-* Feature 1
-* Feature 2
-* Feature 3
-* Feature 4
-* Feature 5
 
 ## Quick Start
 
+### Prerequisites
 
+### Installation
 
-```
+### Usage
 
-This is for a code block
-
-```
 
 ## Guidelines and Limitations
 
-* Currently tested with a single tier VM 
 
-## Prerequisites
-
-## Installation
 
 ## Configuration
 
