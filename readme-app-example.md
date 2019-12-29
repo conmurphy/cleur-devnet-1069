@@ -16,7 +16,7 @@ This is a sample weather application which provides detailed information about t
       * [Quick Start](#quick-start)
          * [Prerequisites](#prerequisites)
          * [Installation](#installation)
-         * [Usage](#installation)
+         * [Usage](#usage)
       * [Documentation](documentation)
       * [Guidelines and Limitations](#guidelines-and-limitations)
       * [Release Notes](release-notes)
