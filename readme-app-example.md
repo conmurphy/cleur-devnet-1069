@@ -10,7 +10,6 @@ This is a sample weather application which provides detailed information about t
 
 \
 \
-\
 
 ![alt tag](https://github.com/conmurphy/cleur-devnet-1069/blob/master/weather-app.png)
 
