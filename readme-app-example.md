@@ -2,12 +2,15 @@
 
 This is a sample weather application which provides detailed information about the weather in a particular location 
 
-* Website: developer.cisco.com 
-* Mailing List: [Google Groups]()
-* Chat: 
+* **Website**: developer.cisco.com 
+* **Mailing List**: [Google Groups]()
+* **Chat**: 
    * [Webex Teams]()
-   * #devnet-1069 on freenode.org 
+   * #devnet-1069 on freenode.org    
 
+\
+\
+\
 
 ![alt tag](https://github.com/conmurphy/cleur-devnet-1069/blob/master/weather-app.png)
 
