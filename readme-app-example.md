@@ -20,7 +20,7 @@ This is a sample weather application which provides detailed information about t
       * [Documentation](documentation)
       * [Guidelines and Limitations](#guidelines-and-limitations)
       * [Release Notes](release-notes)
-      * [Contributing](#contributing)
+      * [Contributing and Support](#contributing-and-support)
 	   * [License](#license)
 
 ### Features
