@@ -8,9 +8,14 @@ This is a sample weather application which provides detailed information about t
    * [Webex Teams]()
    * #devnet-1069 on freenode.org 
 
+
+![alt tag](https://github.com/conmurphy/cleur-devnet-1069/blob/master/weather-app.png)
+
+
+
 ## Table of Contents
 
-* [Cisco Live Barcelona 2020 - DEVNET-1069(#cisco-live-barcelona-2020---devnet---1069)
+* [Cisco Live Barcelona 2020 - DEVNET-1069](#cisco-live-barcelona-2020---devnet---1069)
    * [Table of Contents](#table-of-contents)
       * [Features](#features)
       * [Quick Start](#quick-start)
